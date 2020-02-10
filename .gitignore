@@ -2,3 +2,5 @@
 /src/obj
 /src/lib/openExcel/obj
 /src/lib/openExcel/bin
+/src/packages
+/src/.vs
